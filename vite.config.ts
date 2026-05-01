@@ -10,12 +10,12 @@ export default defineConfig({
       name: "copy-404",
       closeBundle() {
         // Copy index.html to 404.html for GitHub Pages SPA support
-        copyFileSync(resolve(__dirname, "dist/index.html"), resolve(__dirname, "dist/404.html"));
+        copyFileSync(resolve(__dirname, "public/index.html"), resolve(__dirname, "public/404.html"));
       },
     },
   ],
   build: {
-    outDir: "dist",
+    outDir: "public",
     emptyOutDir: true,
     rollupOptions: {
       input: {
