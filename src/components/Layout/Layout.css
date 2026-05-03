@@ -5,7 +5,7 @@
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-image: url("/images/ananda-purnima-bg.png");
+  background-image: url("/images/background.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -31,5 +31,4 @@
   position: relative;
   width: 100%;
   min-height: 100%;
-  backdrop-filter: blur(4px);
 }
