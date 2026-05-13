@@ -1,6 +1,6 @@
 # Dharmachakra
 
-![Deploy to GitLab Pages](https://gitlab.example.com/meditationsteps/host-dharmachakra-online/badges/main/pipeline.svg)
+![Deploy to GitLab Pages](https://gitlab.com/meditationsteps/host-dharmachakra-online/badges/main/pipeline.svg)
 
 **Live Site:** https://host.dharmachakra.online/
 
