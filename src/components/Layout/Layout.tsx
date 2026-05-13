@@ -4,6 +4,8 @@ import { Navigate, Outlet, useParams } from "react-router-dom";
 import "./Layout.css";
 import { NavigationProvider } from "./Navigation";
 import TopBar from "./TopBar";
+import { isSupportedLang } from "@/utils/lang.ts";
+import { LANG_RU } from "@/constants/lang.ts";
 
 export default function Layout() {
   const { lang } = useParams<{ lang: string }>();
@@ -11,7 +13,7 @@ export default function Layout() {
 
   // Validate and sync language from URL
   useEffect(() => {
-    if (lang && (lang === "ru" || lang === "en")) {
+    if (isSupportedLang(lang)) {
       if (i18n.language !== lang) {
         i18n.changeLanguage(lang);
       }
@@ -19,8 +21,8 @@ export default function Layout() {
   }, [lang, i18n]);
 
   // Redirect to Russian if invalid language
-  if (!lang || (lang !== "ru" && lang !== "en")) {
-    return <Navigate to="/ru" replace />;
+  if (!isSupportedLang(lang)) {
+    return <Navigate to={`/${LANG_RU}`} replace />;
   }
 
   return (

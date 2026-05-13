@@ -2,6 +2,8 @@ import { useRef, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { useLocation, useNavigate } from "react-router-dom";
 import "./TopBar.css";
+import { SUPPORTED_LANGS } from "@/constants/lang.ts";
+import type { Language } from "@/utils/lang.ts";
 
 export default function LanguagePicker() {
   const { i18n } = useTranslation();
@@ -11,8 +13,6 @@ export default function LanguagePicker() {
   const [isFadingOut, setIsFadingOut] = useState(false);
   const fadeOutTimeoutRef = useRef<NodeJS.Timeout | null>(null);
   const hideTimeoutRef = useRef<NodeJS.Timeout | null>(null);
-  const languages = ["ru", "en"] as const;
-  type Language = (typeof languages)[number];
 
   const handleMouseEnter = () => {
     // Clear any pending timeouts
@@ -68,7 +68,7 @@ export default function LanguagePicker() {
       </div>
       {isVisible && (
         <div className={`language-overlay ${isFadingOut ? "fade-out" : ""}`}>
-          {languages.map((lang) => (
+          {SUPPORTED_LANGS.map((lang) => (
             <div
               key={lang}
               className={`language-option ${i18n.language === lang ? "active" : ""}`}

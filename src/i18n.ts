@@ -6,23 +6,24 @@ import timerEn from "./locales/en/timer.json";
 import pagesRu from "./locales/ru/pages.json";
 // Import translation files directly
 import timerRu from "./locales/ru/timer.json";
+import { LANG_EN, LANG_RU, SUPPORTED_LANGS } from "./constants/lang.ts";
 
 i18n
   .use(LanguageDetector)
   .use(initReactI18next)
   .init({
     resources: {
-      ru: {
+      [LANG_RU]: {
         timer: timerRu,
         pages: pagesRu,
       },
-      en: {
+      [LANG_EN]: {
         timer: timerEn,
         pages: pagesEn,
       },
     },
-    fallbackLng: "ru",
-    supportedLngs: ["ru", "en"],
+    fallbackLng: LANG_RU,
+    supportedLngs: SUPPORTED_LANGS,
     defaultNS: "common",
     ns: ["common", "timer", "pages"],
     interpolation: {
