@@ -4,20 +4,14 @@ import FullscreenToggle from "./FullscreenToggle";
 import LanguagePicker from "./LanguagePicker";
 import { useNavigationConfig } from "./Navigation";
 import "./TopBar.css";
+import { getRoutePath } from "@/utils/route.ts";
+import type { Language } from "@/utils/lang.ts";
 
 export default function TopBar() {
-  const { lang } = useParams<{ lang: string }>();
+  const { lang } = useParams<{ lang: Language | any }>();
   const config = useNavigationConfig();
   const [isVisible, setIsVisible] = useState(true);
   const hideTimeoutRef = useRef<NodeJS.Timeout | null>(null);
-
-  // Helper function to build route path
-  const getRoutePath = (route?: string) => {
-    if (!route) return "#";
-    // "index" maps to the empty route (just /lang/)
-    const path = route === "index" ? "" : route;
-    return `/${lang}/${path}`;
-  };
 
   // Default to index if no home specified
   const home = config.home || "";
@@ -62,21 +56,21 @@ export default function TopBar() {
     <div className={`top-bar ${isVisible ? "visible" : "hidden"}`}>
       <div className="top-bar-left">
         <FullscreenToggle />
-        <Link to={getRoutePath(home || "index")} className="icon-button top-bar-home">
+        <Link to={getRoutePath(lang, home || "index")} className="icon-button top-bar-home">
           <img src="/images/home.png" alt="Home" />
         </Link>
       </div>
 
       <div className="top-bar-center">
         <Link
-          to={getRoutePath(config.prev)}
+          to={getRoutePath(lang, config.prev)}
           className={`icon-button ${!config.prev ? "disabled" : ""}`}
           onClick={(e) => !config.prev && e.preventDefault()}
         >
           <img src="/images/right.png" alt="Previous" className="nav-arrow-left" />
         </Link>
         <Link
-          to={getRoutePath(config.next)}
+          to={getRoutePath(lang, config.next)}
           className={`icon-button ${!config.next ? "disabled" : ""}`}
           onClick={(e) => !config.next && e.preventDefault()}
         >
