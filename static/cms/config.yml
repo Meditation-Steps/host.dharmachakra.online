@@ -11,7 +11,16 @@ media_folder: static/images
 collections:
   - name: svadhyaya
     label: Svadhyaya
-    label_singular: Svadhyaya
-    folder: static/svadhyaya
-    fields:
-      - { label: Body, name: body, widget: markdown }
+    files:
+      - name: en
+        label: Svadhyaya
+        file: static/svadhyaya/en.md
+        format: raw
+        fields:
+          - { label: Body, name: body, widget: markdown }
+      - name: ru
+        label: Свадхьяя
+        file: static/svadhyaya/ru.md
+        format: raw
+        fields:
+          - { label: Body, name: body, widget: markdown }
