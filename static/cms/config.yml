@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
+
+backend:
+  name: gitlab
+  repo: meditationsteps/host-dharmachakra-online
+  branch: main
+  auth_type: pkce
+  app_id: bf8e6c77f202acfe4f5c9a4b2ec969d49bed1e1077f5455ef6023d016afd52be
+
+media_folder: static/images
+collections:
+  - name: svadhyaya
+    label: Svadhyaya
+    label_singular: Svadhyaya
+    folder: static/svadhyaya
+    fields:
+      - { label: Body, name: body, widget: markdown }
