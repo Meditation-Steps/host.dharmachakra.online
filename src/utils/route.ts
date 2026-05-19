@@ -7,3 +7,7 @@ export const getRoutePath = (lang: Language, route?: string) => {
   const path = route === "index" ? "" : route;
   return `/${lang}/${path}`;
 };
+
+export const getNumberParam = (param: string | null): number => {
+  return parseInt(param || '');
+}

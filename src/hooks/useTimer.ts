@@ -3,7 +3,8 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 
 export interface UseTimerOptions {
-  durationMinutes?: number;
+  durationSeconds?: number;
+  givenRemainingTime?: number;
   onComplete?: () => void;
 }
 
@@ -16,14 +17,16 @@ export interface UseTimerReturn {
   reset: () => void;
 }
 
-export function useTimer({ durationMinutes = 30, onComplete }: UseTimerOptions = {}): UseTimerReturn {
-  const TOTAL_TIME = durationMinutes * 60;
+export function useTimer({ durationSeconds = 1800, givenRemainingTime = 0, onComplete }: UseTimerOptions = {}): UseTimerReturn {
+  const TOTAL_TIME = durationSeconds;
 
-  const [remainingTime, setRemainingTime] = useState(TOTAL_TIME);
+  const [remainingTime, setRemainingTime] = useState(givenRemainingTime || TOTAL_TIME);
   const [isRunning, setIsRunning] = useState(false);
 
+  const initialPausedTime = givenRemainingTime ? (durationSeconds - givenRemainingTime) * 1000 : 0;
+
   const startTimeRef = useRef<number | null>(null);
-  const pausedTimeRef = useRef<number>(0);
+  const pausedTimeRef = useRef<number>(initialPausedTime);
   const animationIdRef = useRef<number | null>(null);
 
   const progress = ((TOTAL_TIME - remainingTime) / TOTAL_TIME) * 100;
