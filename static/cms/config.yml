@@ -10,17 +10,18 @@ backend:
 media_folder: static/images
 
 i18n:
+  structure: multiple_files
   locales: [en, ru]
   default_locale: en
 
 collections:
   - name: svadhyaya
     label: Svadhyaya
+    folder: static/svadhyaya
+    format: raw
+    extension: md
+    create: false
+    delete: false
     i18n: true
-    files:
-      - name: svadhyaya
-        label: Svadhyaya
-        file: static/svadhyaya/{{locale}}.md
-        format: raw
-        fields:
-          - { label: Body, name: body, widget: markdown, i18n: true }
+    fields:
+      - { label: Body, name: body, widget: markdown, i18n: true }

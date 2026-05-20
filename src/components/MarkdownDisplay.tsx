@@ -16,7 +16,7 @@ const MarkdownDisplay: React.FC<MarkdownDisplayProps> = ({ name: name }) => {
         const loadMarkdown = async () => {
             setLoading(true);
             try {
-                const url = `/${name}/${i18n.language}.md`;
+                const url = `/${name}/${name}.${i18n.language}.md`;
                 const response = await fetch(url, {
                     // Tells the browser to always revalidate with the server
                     // rather than serving directly from cache
