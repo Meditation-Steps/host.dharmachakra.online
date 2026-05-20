@@ -8,19 +8,19 @@ backend:
   app_id: bf8e6c77f202acfe4f5c9a4b2ec969d49bed1e1077f5455ef6023d016afd52be
 
 media_folder: static/images
+
+i18n:
+  locales: [en, ru]
+  default_locale: en
+
 collections:
   - name: svadhyaya
     label: Svadhyaya
+    i18n: true
     files:
-      - name: en
+      - name: svadhyaya
         label: Svadhyaya
-        file: static/svadhyaya/en.md
+        file: static/svadhyaya/{{locale}}.md
         format: raw
         fields:
-          - { label: Body, name: body, widget: markdown }
-      - name: ru
-        label: Свадхьяя
-        file: static/svadhyaya/ru.md
-        format: raw
-        fields:
-          - { label: Body, name: body, widget: markdown }
+          - { label: Body, name: body, widget: markdown, i18n: true }
