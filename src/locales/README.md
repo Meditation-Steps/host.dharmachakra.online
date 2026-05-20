@@ -8,12 +8,15 @@
 
 `import timerNEW_LOCALE_NAME from "./locales/NEW_LOCALE_NAME/timer.json";`
 
+`import validationNEW_LOCALE_NAME from "./locales/NEW_LOCALE_NAME/validation.json";`
+
 and
 
 `
-[LANG_EN]: {
+[LANG_NEW_LOCALE_NAME]: {
    timer: timerNEW_LOCALE_NAME,
    pages: pagesNEW_LOCALE_NAME,
+   validation: validationNEW_LOCALE_NAME,
 },
 `
 to `resources` object in `./src/i18n`.

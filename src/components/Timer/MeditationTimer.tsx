@@ -1,16 +1,32 @@
 import { useCallback, useEffect, useState } from "react";
-import { useTimer } from "../../hooks/useTimer";
-import { playNotificationSound } from "../../utils/audio";
-import { formatTime } from "../../utils/formatTime";
+import { useTimer } from "@/hooks/useTimer.ts";
+import { playNotificationSound } from "@/utils/audio.ts";
+import { formatTime } from "@/utils/formatTime.ts";
 import TimerControls from "./TimerControls";
 import TimerOverlay from "./TimerOverlay";
 import "./Timer.css";
+import { useSearchParams } from "react-router-dom";
+import { secondsInMinute } from "@/constants/time.ts";
+import { getNumberParam } from "@/utils/route.ts";
+import { useTranslation } from "react-i18next";
 
 interface MeditationTimerProps {
   durationMinutes?: number;
 }
 
 export default function MeditationTimer({ durationMinutes = 30 }: MeditationTimerProps) {
+  const { t } = useTranslation("validation");
+  const [searchParams] = useSearchParams();
+
+  const givenDurationTime = getNumberParam(
+      searchParams.get("f")
+  ) || durationMinutes * secondsInMinute;
+  const givenRemainingTime = getNumberParam(searchParams.get("t")) || 0;
+
+  if (givenDurationTime < givenRemainingTime) {
+    alert(t("givenDurationAndRemainingTime"));
+  }
+
   const [showControls, setShowControls] = useState(true);
 
   const handleComplete = useCallback(() => {
@@ -18,7 +34,8 @@ export default function MeditationTimer({ durationMinutes = 30 }: MeditationTime
   }, []);
 
   const { remainingTime, isRunning, progress, start, stop, reset } = useTimer({
-    durationMinutes,
+    durationSeconds: givenDurationTime,
+    givenRemainingTime: givenRemainingTime,
     onComplete: handleComplete,
   });
 
