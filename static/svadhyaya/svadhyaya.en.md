@@ -1,6 +1,6 @@
 # SHIVOPADESHA 4 (Part 2)
 
-> _Thus I repeat: Shásanát tárayet yastu sah shástrah parikiirttitah. There is the necessity of scripture in all the four vargas of human life._(^82)
+> _Thus I repeat: Shásanát tárayet yastu sah shástrah parikiirttitah. There is the necessity of scripture in all the four vargas of human life._[^82]
 >
 > The scripture which is required in the spiritual field is called dharma shástra, the treatise of spiritual injunctions, as discussed above; and Brahma in the form of guru is the controller of the scriptures. The third factor is the philosophical treatise relating to the mental world, called darshana shástra; and with this third factor there must also be a fourth factor, darshana pravaktá, that is, a propounder who will train the people in philosophy, for the philosophical treatises may be wrongly interpreted.
 >
@@ -67,4 +67,4 @@
 >
 > **Shrii Shrii Ánandamúrti**
 
-(^82): The four vargas are the four basic drives of human beings: physical, psycho-physical, psycho-spiritual and spiritual. In addition to shástra itself, there is the necessity of shástra vyákhyána; the various factors of which the author now proceeds to enumerate. –Trans.
+[^82]: The four vargas are the four basic drives of human beings: physical, psycho-physical, psycho-spiritual and spiritual. In addition to shástra itself, there is the necessity of shástra vyákhyána; the various factors of which the author now proceeds to enumerate. –Trans.
