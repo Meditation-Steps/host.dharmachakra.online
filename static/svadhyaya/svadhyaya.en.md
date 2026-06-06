@@ -1,84 +1,72 @@
-# SHIVOPADESHA 5 (Part 1)
+# SHIVOPADESHA 6
 
-> *Yadabhavat yadbhavati yadeva bhavyamasti;*  
-> *Teśáḿ vilakśańo sákśii cinmátroʼhaḿ Sadáshivah.*  
-> *(Whatever has been created in the past, is existing in the*  
-> *present, or will be created in the future.*  
-> *I, Sadáshiva, the sole cognition, am the supreme witness of all,*  
-> *having the opposite characteristics to all.)*
+> Manasá kalpitá múrttih nrńáḿ cenmokśasádhanii;  
+> Svapnalabdhena rájyena rájánah manavástathá.  
+> (If an idol produced out of the human imagination can bring about salvation,  
+> Then can a person, by creating a kingdom in his dreams, become a king in the real sense?)  
 >
-> The Sanskrit root verb bhú means “to be”, and abhavat means “has been created”. Now, what is the meaning of “has been created”? Everything in this universe is emanating from the Cosmic Nucleus, and is always moving, in systaltic fashion, from far to farthest, and from near to nearest. The minuteness or vastness of an object is determined by the wavelength of its vibrations. As a result of the constant buffeting by surrounding waves, great objects are gradually pulverized into smaller particles, and in the convergence of innumerable waves, small particles gradually expand into vast proportions. All entities are constantly being transformed from vast to minute, and from minute to vast.
+> Mind has primarily two qualities: thinking and recollection. Thoughts are also of various types: first, thoughts regarding the existing environment; second, thoughts regarding the past environment; third, thoughts without any environment; and fourth, fantastic thoughts.
 >
-> There is no such thing as status quo in this created world. And this conversion into vastness or minuteness is occurring due to the variation in the state of internal and external tanmátras. This is how the universe has been created, this is the play of creation.
+> The first category of thoughts relates to the existing environment in which one is living, for instance, the earth, grass, trees and plants, rocks and stones, friends and foes, etc. For instance, when people see a snake at a distance, they forget everything else and start thinking about the snake. When a deer sees a tiger, it thinks only of that tiger; when someone is cooking, that person thinks only of salt, spices, oil, etc. Seated in the examination hall, the students think only about their question papers. These are all thoughts concerning the existing environment.
 >
-> *Khelicha e vishva laye, he virát́ shishu ánamane.*  
-> *Pralaya sriśt́i taba putula khelá nirajane Prabhu nirajane.*  
-> *(O Great Child, you are playing with this universe, absentmindedly.)*  
-> *(Destruction and creation are the play of your dolls*  
-> *In a lonely place, O Lord, in a lonely place.)*  
+> The second category is the thoughts of the past environment. When a prince falls into difficulty and is compelled to eat stale rice and gourd, then naturally he thinks about the delicious dainties of his royal palace. Those who have spent their childhood in luxury and comfort tend to reminisce about their happy childhood days during the hardships of their later years. A student who once stood first in his class, but who later fails in his examinations, sighs and remembers his achievements of the past. These are thoughts concerning past environments.
 >
-> In this eternal play on the body of the Infinite, from the Cosmic viewpoint, there is no time, no object, no living being, no spatial measurement. This divine play is totally beyond time, place and person. And the soul of this sport, the central figure of this blissful game, is beyond the reach of all. In this flowing Cosmic dance, the play of consciousness with matter goes on and on – the play of the vast with the small, of the conceivable with the inconceivable.
+> The third is thoughts having no environment. When someone is in a very disagreeable situation, passing his days in great misery and suffering, then he paints brightly coloured dreams and launches imaginary balloons in his mental sky. In the dazzling light of the golden pictures of his mental world, his mind starts glittering.
 >
-> In this flowing dance, whenever any material entity comes in contact with any unit consciousness, then that object comes within the internal conception of that unit mind, or within its perception of tanmátras. The unit consciousness or unit mind can understand these tánmátrik essences only superficially, not profoundly. When unit minds gain a superficial perception – that is, when they come in contact with the tanmátras, or when they go beyond the range of these essences – when the whisper of the distant ocean of infinity beckons, with a sweet hint of bliss – then those minds make an imaginary measurement of the motivity of action. This mental measurement of the motivity of action is called kála, or time. And this mental measurement, or the idea of time, applies only to finite entities, not to the Infinite.
+> Raungiin nimeś dhúlár dulál  
+> Paráńe chaŕáy ábiir gulál  
+> Oŕná oŕáy shrávańer meghe saiṋcaramán nrtya  
+> Hat́hát álor jhalkáni lege jhalmal kare citta.  
+> (Colourful moments in the lives of the darling children of the dust  
+> Sprays of coloured powder and rose-water,  
+> Scarves flying through rain-swept clouds in a whirling, twirling dance –  
+> Thrilled by these sudden flashes of light, the mind starts glittering.)  
 >
-> The mental reckoning of this time factor is not an uninterrupted flow – it is a rapid succession of discontinuous fragments; and by fusing together these disjointed fragments of time, we create a totally imaginary concept of a vast expanse of time.
+> There is still another type of thought which we may call “fantastic thoughts”. The substance of any thought is not divorced from the real world; that is, whatever people see in imagination or think in contemplation, the materials of these thoughts are all collected from the external world. People cannot think of anything which they have not previously seen or perceived with their sense organs. This is the greatest imperfection of the human mind. One of the main qualitative differences between the unit mind and the Cosmic Mind is this: all the thoughts of the Macrocosm are original, each one is constantly new. The Macrocosm does not need to receive anything from the external world through sense organs. Even the minutest fraction of any Cosmic thought is completely novel: Bhávátiita abhinava dehi padam (“O Parama Puruśa who is ever-new and beyond the range of mental cognition, give me shelter at your feet”).
 >
-> That imaginary period of time from which the unit mind is moving away, we call abhavat (past). Even upon cursory analysis, one can understand that what is past to a particular person or a particular place, is not past to another person or place. The Cosmic dance is flowing in an endless continuum; the past is still related to the present. Something which has been lost in the remote past in the history of this earth is still intimately connected to the present, on stars millions upon millions of light-years away.
+> No two human faces are exactly the same, no two entities are identical in any respect. Because of this all-embracing originality of the Macrocosm, there are no identical entities anywhere in this universe. They may be similar, but not identical.
 >
-> Thus we cannot simply ignore or deny the existence of that which is past. The “past”, or abhavat, is only a relative idea, a relative expression.
+> When people mentally combine some part or whole of an entity, with a part or whole of another entity, and then with a part or whole of still another entity – and, by blending all of these component parts, create an altogether new entity in their imagination, this is called “fantastic thought”.
 >
-> *He púrńa taba carańer káche*  
-> *Yáhá kichu sab áche, áche, áche*  
-> *Nái, nái bhay se shudhu ámári*  
-> *Nishidin kándi tái.*  
-> *(O Full One, whatever there was at*  
-> *Your feet still is, is, is;*  
-> *Only I am afraid of loss,*  
-> *So I weep day and night.)*  
+> Háns ár sajáru vyákarań mániná  
+> Haye gela hánsjáru kemane tá jániná.  
+> (Goose and porcupine, I donʼt care about grammar  
+> They become goosepine, I donʼt know how.)  
 >
-> We cannot say that something which has gone out of human reach, which is lost forever to human beings, no longer exists. For the Supreme Cognition, there is no bondage of relativism. What is considered past to the people of the relative world remains ever-present on the lap of Sadáshiva, the Infinite Consciousness, like a child beaming with endless laughter – a loving child dancing on the lap of the Supreme Father for eternity. The child of the past was never lost, is never lost, and never will be lost.
+> While painting pictures, people gather materials from thoughts of the existing environment, from thoughts of the past environment, from thoughts having no environment, or from fantastic thoughts. People resort to fantastic thoughts, or thoughts having no environment, out of fear, or sometimes due to disease, or in the hope of attaining happiness – but mostly to escape easily from the consequences of their misdeeds. Out of fear of tigers people imagined a tiger-god; out of fear of crocodiles, they imagined a crocodile-god; to overcome difficulties in the forest, they imagined a forest-goddess; in hot and humid climates where snakes abound, out of fear of snakes, they imagined a snake-god. These types of imagination, as I have said earlier, mostly arise due to fear or other such propensities.
 >
-> According to the science of time, the present, as a relative factor, is not as long as the past or the future. An eternal clash and cohesion among objects is taking place on the infinite body of the Cosmic Mind. When any entity, whether spiritual, mental, or physical, comes in contact with one or more finite entities, and when that entity can assimilate and transmit the tánmátrik reflections and refractions, that period of assimilation is termed in common language as “present”. When the assimilation or transmission of tanmátras ceases, or is transcended, that is termed as “past”; and when something has not yet come within the scope of tánmátrik assimilation and transmission, it is called “future”.
+> Greedy people, in the hope or obsession of accumulating more wealth, and that, too, without any hardship, imagine a goddess of wealth. Students who do not want to labour hard to acquire knowledge, imagine a goddess of learning in the hope of easily passing difficult examinations. And instead of sustained individual effort, straightforwardness and utmost sincerity, which are essential to achieve salvation, people cherish the hope of attaining it from various imaginary gods and goddesses by ritualistic worship with easily-obtainable paraphernalia and by chanting a few mantras. All human imagination is based on elements collected from the external world. People cannot think an original thought; that is, they cannot think of anything which does not actually exist in the quinquelemental world. Only Parama Puruśa can do so. Hence when people create imaginary idols out of fear, greed, or any other propensity, none of those is original and none has even tánmátrik existence, much less material existence. Had Parama Puruśa conceived of those idols, they would have had physical existence, but in that case also, they would not have had absolute existence, because only Parama Puruśa has absolute existence; other things are merely imaginations of imaginations. Hence in the first part of the shloka it has been said, Manasá kalpitá múrttih (“An idol produced out of the human imagination”).
 >
-> I said a while ago that the present as a relative factor does not have the significance as the past and the future, because the present is a continuously moving entity; one moment it seems to be existing, the next moment it seems to have disappeared. One moment it seems that the present has not yet arrived; the next, it has already come. Hardly do we see anything before it disappears into the bosom of the past. While one is thinking of something which has not occurred, suddenly it appears – and the next moment it loses itself in the depths of time. So upon subtle analysis, we find that what we call bhavati (present) is partly in the bosom of the future, and partly in the bosom of the past. That portion of the past or of the future which a person can relate to is considered as present; therefore the present always varies from person to person.
+> I said a little while ago that lazy people, to achieve something easily, weave various types of imaginary nets, and spreading their wings over the hard soil of this earth, soar far, far, very far, into the distant blue sky. They do not think that one day they will have to come down to this dusty earth. People seek liberation and salvation in order to gain something in earthly life. Just as people try to gain something easily in the material world by flattery or deceit, they apply the same process to attain liberation or salvation. They do not know, they do not understand, that spiritual salvation is an entirely different matter.
 >
-> One person says, “Just listen! Mr. So-and-so is still singing the Áshávarii melody.”[^1] Another says, “What melody? I canʼt hear it any more.” The musician is singing Áshávarii at a particular time: one person can hear it, and another cannot. To the person who hears it, the music is present; to the one who can no longer hear it, the music is already past.
+> All living beings have minds. Some minds are dormant, some are undeveloped, some are developed, some are highly developed. Human beings possess such highly-developed minds. Yet, however developed or expanded a human mind might be, after all it is still a unit mind; whereas the all-expanded mind of Parama Puruśa is the Cosmic Mind. All the pains and pleasures of human beings come from the unit mind.
 >
-> Thus far I was saying that the present has no absolute value whatsoever, and so far as its relative value is concerned, that too should be carefully considered. But I must add one thing here – that in the relative world in which we are living, the past and the future carry tremendous value. So if you declare the present to be valueless, people may accept this because of your intricate philosophical arguments, but reality cannot accept it. Thus the children of this dusty earth cannot deny the existence of the present; and because of this, Shiva, the staunch realist, declared, Varttamáneśu vartteta (“Live in the present”).
+> Mana eva manuśyánáḿ kárańaḿ bandhamokśayoh;  
+> Bandhastu viśayásaungi mukto nirviśayaḿ tathá.  
+> Manah karoti karmáńi manah lipyate pátakaeh;  
+> Manashca tanmaná bhútvá na puńyaeh na ca pátakaeh.  
+> (Mind is the cause of human bondage and liberation;  
+> Bondage means attachment to objects, and liberation means freedom from attachment.)  
+> (It is mind which works and mind which sins –  
+> For the mind which is immersed in the thought of God there is no virtue, no vice.)  
 >
-> The present, which is the result of the convergence of past and future, will certainly be recognized as the undulation of waves in the infinite Cosmic body. And the Supreme Consciousness, in whose vast bosom these undulations of the so-called present rise and fall, is seeing all the stages of this vibrational flow, is knowing them, and, by His sacred witness-ship, making their existences flow with sweetness. Thus Sadáshiva, the repository of cognition, knows everything that has been thus far created.
+> It is the mind which carries the burden of pains and pleasures. In the mind is the gloomy black curtain of sorrow, and through this dark curtain pierces the silver light and golden glow of momentary happiness. As long as there are other entities outside the unit mind, there will continue to be sorrows and afflictions, desires, passions and pains. As a result of various types of physical or psychic clashes with other entities, the feelings of pain and pleasure rise and fall like bubbles in the mind. If, through sádhaná, people can merge their unit minds with the Cosmic Mind of Parama Puruśa, then the unit minds themselves become the Cosmic Mind: their individual identities are merged in that Cosmic “I”. In that condition, there remains nothing outside. Thus, there is no longer any possibility of physical or psychic clash with any external entity or object. All objects, all ideas, arise out of oneʼs mind. This is the state of liberation – a state of Cosmic bliss far above the domain of mundane pleasures and pains.
 >
-> That which is yet to be, is the impending result of the Cosmic laws of causation. People well know that when they put their hands in fire, they will certainly be burnt; but children who are ignorant of the burning power of fire may put their hands in the fire. It is not their mistake – it is their ignorance.
+> The unit consciousness is the witness of the unit mind, but we do not call the unit consciousness the Supreme Cognition, because this unit consciousness is simply a reflection of the Supreme Cognition on the unit mind. When spiritual aspirants totally surrender their all to the Supreme, they merge their unit consciousness into the Cosmic Consciousness with the unflagging speed generated by Tantric blessing. That mental state, devoid of saḿkalpa and vikalpa, is the state of mokśa.
 >
-> In the sphere of material science, because scientists have understood, to some extent, the properties of animate and inanimate, movable and immovable entities, because they have discovered the operation of the law of cause and effect in these entities, they are able to prepare newer and newer substances – medicines, etc. – in their laboratories. Yet how much have they really learned so far? Very little. And yet, in their laboratories, they manufacture many new inventions – beneficial and malignant as well. They feel great satisfaction in discovering all the beneficial aspects of some of their inventions – and great fear in discovering the dangerous and harmful potentialities of others. Yet how little they really know!
+> As we have explained earlier, the human mind creates various idols from thoughts of the present environment, thoughts of the past environment, thoughts having no environment, and fantastic thoughts. Now, all the movements, gestures and postures of these idols are confined within the scope of the unit mind: when the unit mind so desires, they exist; when it does not, they disappear. That is, their existence depends entirely upon the human mind – they are wholly created by human beings, maintained by human beings, and ultimately will merge into the human mind. So how can they liberate human minds from psychic bondage and establish them in the Macrocosmic stance? Can they free human minds from saḿkalpa and vikalpa and merge the unit consciousness into Supreme Cognition?
 >
-> People do not fully know the nature of any element or compound – perhaps they do not understand even a small fraction of it. What to speak of other objects, how little they know of themselves! Their nearest entities are their own selves, but they know themselves so little. Because of this limited self-knowledge, people always lack self-confidence. The Supreme Consciousness, in whose vast bosom all the finite entities are being created, maintained, and destroyed, fully knows the nature of each and every entity, one hundred percent. That entity may not know itself at all, or may know itself only a little, but the Supreme Consciousness knows it in full.
+> It has been said, “When a person creates a kingdom in his dream…” What is a dream? To dream is to think while sleeping. This thinking may also be of four types: of the present environment, of the past environment, without environment, and fantastic.
 >
-> People who are inflated with pride because of their invention of a single lethal weapon, and dream of shaking the very earth under their arrogant footsteps, should realize that their own existence is quite insignificant, and their lethal weapons are still more insignificant. Those people who try to terrorize others with their deadly arms cannot resist or suppress the spiritual expansion of human beings – their very birthright. Only the Supreme Entity, in whose infinite body all existences have had, are having, and will have, their rhythmic progression and retrogression – only He knows which event has followed and will follow another in the continuous flow of expression of the law of cause and effect.
+> During sleep these thoughts, in the absence of contact with the hard realities of the external world, appear to be real. Thus people who are not at all affected in the waking state by propensities of fear, anger, etc., may be deeply affected by them during dreams; because, as I said earlier, in the waking state, people know that they are imagining; but during sleep, they do not realize that the play of their imagination is going on. So during that period their dream-thoughts become hard reality for them.
 >
-> So it has been said that Yadeva bhavyamasti (“Whatever will be, will be”). Whatever will happen, whatever is destined, is already known to Sadáshiva, the All-knowing Entity. He knows everything in a natural way because no one is outside His all-encompassing surveillance. He is well aware of the strength and ability of all, but people do not realize this.
+> During the time of waking, because there is much resistance from the external reality, there is not much speed of imagination; but during sleep, in the absence of this resistance, there is great acceleration. Within one second people can imagine a vast epic like the Mahábhárata. Sometimes during dreams the dreamers, propelled by such propensities as anger or greed, restlessly move their limbs about. If those moving limbs come in contact with any hard object, the imaginary dream is broken, the dreamerʼs sleep is disrupted and the dreamy fantasy woven in nets of imagination comes abruptly to an end.
 >
-> *Katat́uku bal dhare e mánav*  
-> *Kata bal dhare bidhátá tár!*  
-> *(How little strength humans possess,*  
-> *And what vast strength He possesses!)*  
+> Svapna yadi madhur eman  
+> Hok se miche kalpaná  
+> Jágiyo ná ámáy jágiyo ná.  
+> (If a dream is so sweet, let it be  
+> A false imagination –  
+> Donʼt awaken me, donʼt awaken me.)  
 >
-> Abhavat, the past, and bhavati, the present, and bhavyam, the future – none of these three is separate and distinct from the others. Nothing suddenly emerges or suddenly disappears; all entities respectfully obey the Cosmic laws in a disciplined way and proceed from the future to the still more distant future in the panoramic flow of the Cosmic Cycle. No one can resist the momentum of this Cosmic flow – no one can contain it – no one can suppress it.
->
-> In the annals of human history, many truths and falsehoods have been recorded. Attempts have been made to belittle the importance of great personalities, to erase them from the pages of history, and often small and insignificant people have been magnified and presented as great. But none of these attempts has been successful. Everything is written on the pages of eternal time exactly as it happened; the selfish and vain efforts of petty people have left behind only scornful mirth and derisive laughter on the vast canvas of eternal time.
->
-> *Uŕiche tomár dhvajá megharandhracyuta tapaner jvaladarcirekhá;*  
-> *Karojoŕe ceye áchi úrdhvamukhe – paŕite jáni na, kii táháte lekhá.*  
-> *(Your banner is flying like a beam of sunlight flashing through the clouds.*  
-> *I am looking with upturned face and folded hands – but I cannot read what You have written there.)*  
->
-> This colourful pageant of history, these unknown pictures of the past, the variegated splendour of this theatrical show, are all every moment rising and falling on the bosom of eternity. History is merely giving a gentle blow, a soft vibration of existence, on the solid rock of time. It has been said, Teśáḿ vilakśańo sákśii (“He is the witness with opposite characteristics”). Paramashiva, Supreme Consciousness, is intimately associated with all the various scenes of the acts of history, past, present and future: He is their impartial witness. Though the Supreme Entity is not only a witnessing entity – He is much more than that – still He is the uninvolved witness of all the sequences of events. He does not distort history, nor does He give undue importance to any matter or any entity. He is outside the scope of the law of causation, so He is the witness with “opposite characteristics”[^2] to all occurrences. His witness-ship does not involve Him in any event – Kleshakarmavipákásháyaeraparámrśt́ah Puruśavisheśa Iishvarah (“The special Puruśa who remains unassailed by afflictions, actions, reactions, and saḿskáras, is Iishvara, the Lord”).
->
-> So it has been rightly said that this Paramashiva, this Sadáshiva, is the uninvolved witness to all the events of the universe, and because of His impartiality, His unique witness-ship has been symbolized by His third eye.
->
-> *16 July 1982, Patna*
->
-> **Shrii Shrii Ánandamúrti**
-
-[^1]: A particular rága, or melodic scale, in Oriental music. –Trans.
-[^2]: The word vilakśana is used in two senses: one is vipariita lakśana, or “opposite characteristic”; the other is visheśa lakśana, or “special characteristic”. In the Bengali language, the second meaning is used.
+> When people mentally create a dream kingdom with four imaginary palaces and take their seat on an imaginary throne of gold, in that case they become monarchs in their dream, no doubt, but in reality, are they truly monarchs? Upon awakening they find that they were all along sleeping on a tattered mat with a ragged blanket. Just as becoming the monarch of a kingdom created in the imagination is fantastic and totally false, similarly to expect that idols created by the human imagination can grant liberation and salvation is not only a remote hope but a disappointment from beginning to end. Thus Shiva stated in clear language: svapnalabdhena rájyena rájánah mánavástathá (“can a person, by creating a kingdom in his dreams, become a king in the real sense”)?
