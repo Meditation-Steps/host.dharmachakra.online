@@ -2,10 +2,8 @@
 
 backend:
   name: gitlab
-  repo: meditationsteps/host-dharmachakra-online
+  repo: Meditation-Steps/host.dharmachakra.online
   branch: main
-  auth_type: pkce
-  app_id: bf8e6c77f202acfe4f5c9a4b2ec969d49bed1e1077f5455ef6023d016afd52be
 
 media_folder: static/images
 
