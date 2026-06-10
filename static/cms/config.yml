@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
 
 backend:
-  name: gitlab
+  name: github
   repo: Meditation-Steps/host.dharmachakra.online
   branch: main
 
