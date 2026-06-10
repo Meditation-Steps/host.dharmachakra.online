@@ -2,6 +2,7 @@ import { copyFileSync } from "node:fs";
 import { resolve } from "node:path";
 import react from "@vitejs/plugin-react";
 import { defineConfig } from "vite";
+import * as path from "node:path";
 
 export default defineConfig({
   plugins: [
@@ -14,6 +15,12 @@ export default defineConfig({
       },
     },
   ],
+  resolve: {
+    alias: {
+      "@": path.resolve(__dirname, "src"),
+    },
+  },
+  publicDir: "static",
   build: {
     outDir: "dist",
     emptyOutDir: true,
