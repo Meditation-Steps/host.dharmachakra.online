@@ -4,6 +4,7 @@ backend:
   name: github
   repo: Meditation-Steps/host.dharmachakra.online
   branch: main
+  base_url: https://sveltia-cms-auth.funbotan.workers.dev/
 
 media_folder: static/images
 
