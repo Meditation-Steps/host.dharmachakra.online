@@ -1,27 +1,28 @@
-# SHIVOPADESHA 9
+# SHIVOPADESHA 10
 
-Átmajiṋánamidaḿ Devi paraḿ mokśaekasádhanam;  
-Sukrtaermánavo bhútvá jiṋániicenmokśamápnuyát.  
+_Átmasthitaḿ Shivaḿ tyaktvá vahisthaḿ yah samarcayet;  
+Hastasthaḿ pińd́amutsrjya bhramate jiivitáshayá._  
 
-(Self-knowledge, Párvatii, is the greatest means to attain salvation.  
-People are born as human beings due to their past good saḿskáras, but to attain non-qualified liberation they will have to attain self-knowledge.)
+_– Shiva Saḿhitá_
 
-In the older days, Párvatii was the symbolic representation of all the spiritual questions of human beings. Párvatii, as a representative of humanity, would ask Sadáshiva all the eternal questions of the human mind. Shivaʼs answers to these queries are indeed the lovely jewels of all ages. Párvatiiʼs queries, too, are so beautiful that hearing them, learned people think, “Indeed, this is also my question.” That is why her questions have been arranged in perfect order, and are collectively known as nigama shástra. This nigama shástra is a collection of spiritual questions of a very high order. Although Shivaʼs answers are very illuminating in their brilliant philosophical exposition, their practical value far exceeds their philosophical value. Indeed, Shivaʼs philosophical explanations are more illuminating because of their practical value.
+(One who looks for Shiva in the external world, ignoring the Shiva of the internal world,  
+Is like one who throws away the rice that is in oneʼs hand and wanders from door to door in search of oneʼs livelihood.)
 
-In Tantra, the nigama, that is, the collection of Párvatiiʼs questions, and the ágama, the compilation of Shivaʼs answers, have been compared to the two wings of a swan. A bird cannot fly on one wing; similarly, Tantra philosophy, with its nigama and ágama, is complete. If one of the aspects is excluded, the inner essence of Tantra is jeopardized.
+In the universe, under no circumstances was anyone alone, is anyone alone, or will anyone be alone. All the entities lying within the Cosmic bosom from beginning to end are moving, and the touch of Parama Puruśaʼs hand – the Supreme Controller, who is stronger than even the thunderbolt – is upon them all. On the one hand, in His prota-yoga, He is associated with all entities of all lokas (worlds) and all spheres; and on the other, in His ota-yoga, He is shining like a bright jewel in the most solitary corners of the minds of all creatures. The sky of the external world is glittering with His light and the sky of the inner world is also gleaming with His effulgence.
 
-In this shloka, Shiva answers Párvatiiʼs question:
+_Na tatra súryo bháti na candratárakaḿ;  
+Nemá vidyuto bhánti kutoʼyamagnih.  
+Tadeva bhántamanubháti sarvaḿ;  
+Tasya bhásá sarvamidaḿ vibháti._  
 
-“The only way to attain salvation is to acquire self-knowledge through proper practice.” Regarding self-knowledge, it has already been discussed in great detail. Here Shiva has said that to attain mokśa without acquiring self-knowledge is an impossibility. Some people may argue that to attain self-knowledge, the path of devotion is the best. But here the term bhakti has not been used, because in the early days of the Shiva cult, the word bhakti was not used in the realm of intuitional practice, it began to be used only in later days. We come across a reference to the term bhakti in one of the significant observations pertaining to the path of meditation: Mokśakárańasamagryáḿ bhaktireva gariiyasii (“Of all the ways to attain salvation, bhakti is the greatest”). This observation is about 1500 years old, that is, long after Shivaʼs time.
+“He who illumines the external world, illumines all the stars and planets also. Besides Parama Puruśa, no other entity has light of its own. The light of all other entities is the mere reflection of His effulgence. Compared to that supreme source of effulgence, even the sun is enveloped in darkness – the shining face of the moon is covered with a black veil – the flashes of lightning are lost in the blinding darkness – what to speak of the glow of fire! All are lighted with His light; with His radiance, all others are radiant, and in His effulgence all others become blessed.” To this Supreme Entity, this Parama Puruśa, no one is negligible, no one is abominable. He is the focal point of all existence – He is the most resplendent entity of all. To make His dear children dance in joy and overflowing delight, He leads them to the highest attainment. Concealing Himself in all, He plays hide-and-seek with His little children:
 
-Here Shiva says, self-knowledge is the path of attaining salvation. It has also been explained very clearly that for self-knowledge, intense sádhaná and utmost sincerity are essential. It has also been said that only by moving towards the Supreme One, leaving all other entities, and totally surrendering oneself with all the sweetness of life emanating from the deepest recesses of the heart into the infinite sweetness of Paramashiva – only in this way can one attain the supreme benevolence – and then only can one attain self-knowledge. What could be a deeper and sweeter interpretation of devotion than this?
+_Brhacca taddivyamacintyarúpaḿ súkśmácca tat súkśmataraḿ vibháti,  
+Dúrát sudúre tadihántike ca pashyatshivaeva nihitaḿ guháyám._  
 
-Now the question is – who can achieve this? Who is eligible for this self-knowledge? Shiva could not accept any discrimination on the basis of caste, community or colour. So how did he determine oneʼs eligibility? Shiva declared that when people attain human status as a result of their noble virtues of lives together, then they are considered eligible to attain self-knowledge.
+(That vast, unfathomable divine form – subtler than the subtlest,  
+Farther than the farthest, nearer than the nearest – one can only see Him hidden in the cave of oneʼs heart.)  
 
-Here a question may arise: While in the process of pratisaiṋcara (the introversive phase of creation), various creatures will, by natural course, attain the stage of humanity. So what is meant by attaining human life as a result of past lives?
+“One need not run about in the world to find Him who is contained within the jewel-case of oneʼs existential feeling. One can easily attain Him if only one searches within.”
 
-The fact is that the creatures advance, in the flow of pratisaiṋcara, along a systematic path. Human beings are just the most evolved creatures, but those human beings who are just evolving from animal life are still very near the borderline between animal and human life. So although they have human bodies, their thoughts, recollections and behaviour remain similar to those of animals to some extent; their existence is full of animal propensities, they have little spiritual awareness, and they are propelled mostly by lower propensities. They do not want to hear good words; even if they hear they do not want to understand; and even if they want to understand, they cannot.
-
-These types of people, although human in form, are not fully human in matter of intellect: they are still in the subhuman stratum. Out of their ignorance they say, “Dharma is opium, one can live without dharma.” They do not consider anything to be sin. They are mainly obsessed with their individual and group interests. They possess only a small fraction of human qualities because they are not sufficiently intellectually developed to possess higher human qualities. These types of people gradually acquire virtues due to their good deeds over their lives, and ultimately become mentally developed and mentally balanced.
-
-These mentally-developed and mentally-balanced people are entitled to self-realization, whatever their intellectual attainment by worldly standards. Some of them, because of their acquired merit over their lives, attain a high degree of spirituality right from their youth. Shiva has rightly said, “One whose existence is truly blessed with virtues acquired through noble deeds, is entitled to self-knowledge. And to attain self-knowledge means to attain salvation: because, with the attainment of self-knowledge, human beings attain permanent liberation from the triple bondages. This permanent liberation is mokśa.”
+To forget the brightest jewel of the inner world and then vainly search for the source of light in the outer world – this is indeed a waste of time! Shiva says, Why should people waste their time in this way? Why should people throw the food from their hands and then beg for alms from door to door? His advice is: proceed towards the inner world… deeper… still deeper… and still deeper.
