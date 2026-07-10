@@ -1,28 +1,17 @@
-# SHIVOPADESHA 10
+# SHIVOPADESHA 11
 
-_Átmasthitaḿ Shivaḿ tyaktvá vahisthaḿ yah samarcayet;  
-Hastasthaḿ pińd́amutsrjya bhramate jiivitáshayá._  
+_Idaḿ tiirthamidaḿ tiirthaḿ bhramanti támasáh janáh;_  
+_Átmatiirthaḿ na jánanti kathaḿ mokśa baránane._  
 
-_– Shiva Saḿhitá_
+(Here is one place of pilgrimage, there is another place. People of static nature wander from the one place to the other place.  
+But without finding the real place of pilgrimage within their hearts, how can they attain salvation?)  
 
-(One who looks for Shiva in the external world, ignoring the Shiva of the internal world,  
-Is like one who throws away the rice that is in oneʼs hand and wanders from door to door in search of oneʼs livelihood.)
+People in general have an irresistible attraction towards tiirtha (a place of pilgrimage). Women are ready to sell their favourite ornaments and utensils to meet the expenses of a pilgrimage, and many people are even ready to sell their landed properties for that purpose. Those who do not even have the strength to walk, travel by palanquins, and those who have defective eyesight go on pilgrimages with towels tied around their waists, pulled along by priests! If the priests show them the shell of a dead snail and tell them that it is an idol of Náráyańa, the people believe it, and with clothes around their necks (as a sign of homage) prostrate themselves before the so-called idol.
 
-In the universe, under no circumstances was anyone alone, is anyone alone, or will anyone be alone. All the entities lying within the Cosmic bosom from beginning to end are moving, and the touch of Parama Puruśaʼs hand – the Supreme Controller, who is stronger than even the thunderbolt – is upon them all. On the one hand, in His prota-yoga, He is associated with all entities of all lokas (worlds) and all spheres; and on the other, in His ota-yoga, He is shining like a bright jewel in the most solitary corners of the minds of all creatures. The sky of the external world is glittering with His light and the sky of the inner world is also gleaming with His effulgence.
+People have been feeling this irresistible attraction towards pilgrimage since the time when the idea of God first sprouted in their minds, but naturally now the question arises, what is this tiirtha? The word tiirtha means “a place of pilgrimage”. Tiira + sthá + d́a = tiirastha (tiirtha). Tiira means the shoreline, where the land and water touch each other. The sloping portion of the land which comes in contact with this tiira is called the beach. If a person takes one step from the shoreline towards the beach one will reach the dry land, and if a person takes one step towards the water, then one will enter the water. The tiirtha, which really means a place between the physical and spiritual worlds, is analogous to this geographical tiira.
 
-_Na tatra súryo bháti na candratárakaḿ;  
-Nemá vidyuto bhánti kutoʼyamagnih.  
-Tadeva bhántamanubháti sarvaḿ;  
-Tasya bhásá sarvamidaḿ vibháti._  
+For if a person takes one step towards worldliness, one is likely to be entangled in all sorts of worldly allurements, and if one takes a step towards the “water of spirituality,” one will be carried away by its current. That very point, which is the connecting link between worldliness and spirituality, is tiirtha: Tiirasthaḿ tiirthamityáhuh.
 
-“He who illumines the external world, illumines all the stars and planets also. Besides Parama Puruśa, no other entity has light of its own. The light of all other entities is the mere reflection of His effulgence. Compared to that supreme source of effulgence, even the sun is enveloped in darkness – the shining face of the moon is covered with a black veil – the flashes of lightning are lost in the blinding darkness – what to speak of the glow of fire! All are lighted with His light; with His radiance, all others are radiant, and in His effulgence all others become blessed.” To this Supreme Entity, this Parama Puruśa, no one is negligible, no one is abominable. He is the focal point of all existence – He is the most resplendent entity of all. To make His dear children dance in joy and overflowing delight, He leads them to the highest attainment. Concealing Himself in all, He plays hide-and-seek with His little children:
+People generally want to live without intense sádhaná in the spiritual sphere and without much effort in the mundane sphere. When people seek to acquire fortune or attain salvation without proper effort, then they try to remove their sins by visiting the so-called holy places of pilgrimage – they try to escape across the Baetarańii (Styx) by holding the tails of calves! The merchants in those holy places understand this mental weakness of the people, and by taking advantage of it, exploit them to the utmost. As a result, the pilgrims are unable to worship as they should, and are misguided into moving from one place to another by these exploiters. But this does not satisfy their spiritual hunger, and they feel they have not at all been relieved of their sins. Thus people of static mentality waste their valuable time, energy and money rushing from one place of pilgrimage to another.
 
-_Brhacca taddivyamacintyarúpaḿ súkśmácca tat súkśmataraḿ vibháti,  
-Dúrát sudúre tadihántike ca pashyatshivaeva nihitaḿ guháyám._  
-
-(That vast, unfathomable divine form – subtler than the subtlest,  
-Farther than the farthest, nearer than the nearest – one can only see Him hidden in the cave of oneʼs heart.)  
-
-“One need not run about in the world to find Him who is contained within the jewel-case of oneʼs existential feeling. One can easily attain Him if only one searches within.”
-
-To forget the brightest jewel of the inner world and then vainly search for the source of light in the outer world – this is indeed a waste of time! Shiva says, Why should people waste their time in this way? Why should people throw the food from their hands and then beg for alms from door to door? His advice is: proceed towards the inner world… deeper… still deeper… and still deeper.
+Then what is the real tiirtha, and where is it situated? The golden line of the human heart whence saḿkalpa and vikalpa have originated and where they touch each other in sweet spiritual bliss – that is the real tiirtha. One who remains at this common point is called tiirastha or tiirtha – there the person and the presiding Lord of the holy place become one. Those who forget the Lord of the holy place, that ever-wakeful One in perpetual tranquillity like an eternal, unflickering flame of light in the deepest recesses of their hearts – those who wander here and there in the mundane world in search of a holy place – can they attain salvation? Shiva answers Párvatii, “No, this type of person cannot attain salvation.”
