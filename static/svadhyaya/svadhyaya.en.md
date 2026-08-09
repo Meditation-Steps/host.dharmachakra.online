@@ -26,8 +26,8 @@ The sárathi of the chariot of Pártha (i.e., of Arjuna) was none other than K
 
 So Krśńa assumed the role of sárathi. The shástras [scriptures] say that the sárathi plays a very significant role in physical fight, in spiritual fight, in all-round fight. It is said in the Yajurveda:
 
-Átmánaḿ rathinaḿ viddhi shariiraḿ rathameva tu;  
-Buddhintu sárathiḿ viddhi manah pragrahameva ca.
+*Átmánaḿ rathinaḿ viddhi shariiraḿ rathameva tu;  
+Buddhintu sárathiḿ viddhi manah pragrahameva ca.*
 
 [Know the átman, the soul, as the occupant of the chariot; the human body as the chariot; the buddhi, or intellect, as the charioteer; and the mind as the reins.]
 
@@ -39,8 +39,8 @@ How should you maintain your body? In Bengali it is said, jhakjhake taktake. In 
 
 There is a fruit which, when eaten, removes all diseases from the body. Hr + nini = hari, “that which steals”, and taki means “that which cleans and enhances the glow of the skin”: hence the fruit is called haritaki [myrobalan].
 
-Haritakih manuśyánáḿ máteva hitakárińii;  
-Kadácit kupyate mátá nodarsthá haritakih.
+*Haritakih manuśyánáḿ máteva hitakárińii;  
+Kadácit kupyate mátá nodarsthá haritakih.*
 
 [Myrobalan is benevolent like a mother. A mother sometimes gets angry, but not myrobalan when it is eaten.]
 
