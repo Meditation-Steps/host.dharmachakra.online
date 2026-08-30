@@ -102,6 +102,11 @@
   line-height: var(--line-height-title);
 }
 
+ul ol {
+  padding-left: 1rem;
+  margin-block: 1em;
+}
+
 div.prose {
   font-size: large;
   text-align: justify;
