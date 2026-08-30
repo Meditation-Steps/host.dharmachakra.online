@@ -65,12 +65,12 @@
   border-radius: var(--guru-border-radius);
 }
 
-.page-content {
+.page-content :not(.svadhyaya-content) {
   flex: 2;
   color: #ffffff;
 }
 
-.page-content p {
+.page-content p :not(.svadhyaya-content) {
   margin-bottom: 1.5rem;
   text-align: center;
   color: #ffffff;
