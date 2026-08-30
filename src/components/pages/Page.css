@@ -65,12 +65,12 @@
   border-radius: var(--guru-border-radius);
 }
 
-.page-content :not(.svadhyaya-content) {
+.page-content {
   flex: 2;
   color: #ffffff;
 }
 
-.page-content p :not(.svadhyaya-content) {
+.page-content p {
   margin-bottom: 1.5rem;
   text-align: center;
   color: #ffffff;
@@ -86,6 +86,10 @@
 .page-footer img {
   max-width: 200px;
   height: auto;
+}
+
+.svadhyaya-content {
+  color: black;
 }
 
 .svadhyaya-content h1 {
