@@ -1,26 +1,15 @@
-// Singleton AudioContext to prevent hitting browser limits
-let audioContext: AudioContext | null = null;
-
-export function getAudioContext(): AudioContext {
-  if (!audioContext) {
-    audioContext = new AudioContext();
-  }
-  return audioContext;
-}
+// Preloaded so the chime plays the instant the timer ends, rather than
+// waiting on a fetch at exactly the moment timing matters.
+const chime = new Audio("/audio/chime.mp3");
+chime.preload = "auto";
 
 export function playNotificationSound(): void {
-  try {
-    const audio = new Audio("/audio/chime.mp3");
-    audio.play();
-  } catch (err) {
+  // Rewinding is only legal once metadata has loaded.
+  if (chime.readyState > 0) {
+    chime.currentTime = 0;
+  }
+  // play() rejects (rather than throws) when the browser blocks autoplay.
+  chime.play().catch((err) => {
     console.warn("Audio playback failed:", err);
-  }
-}
-
-// Cleanup function (useful for testing)
-export function closeAudioContext(): void {
-  if (audioContext) {
-    audioContext.close();
-    audioContext = null;
-  }
+  });
 }

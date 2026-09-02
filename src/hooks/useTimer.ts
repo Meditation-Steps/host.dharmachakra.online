@@ -17,49 +17,45 @@ export interface UseTimerReturn {
   reset: () => void;
 }
 
-export function useTimer({ durationSeconds = 1800, givenRemainingTime = 0, onComplete }: UseTimerOptions = {}): UseTimerReturn {
-  const TOTAL_TIME = durationSeconds;
+// The display only changes once per second; 250ms keeps the tick responsive
+// without spinning the main thread the way requestAnimationFrame did.
+const TICK_MS = 250;
 
-  const [remainingTime, setRemainingTime] = useState(givenRemainingTime || TOTAL_TIME);
+export function useTimer({ durationSeconds = 1800, givenRemainingTime = 0, onComplete }: UseTimerOptions = {}): UseTimerReturn {
+  const [remainingTime, setRemainingTime] = useState(givenRemainingTime || durationSeconds);
   const [isRunning, setIsRunning] = useState(false);
 
   const initialPausedTime = givenRemainingTime ? (durationSeconds - givenRemainingTime) * 1000 : 0;
 
   const startTimeRef = useRef<number | null>(null);
   const pausedTimeRef = useRef<number>(initialPausedTime);
-  const animationIdRef = useRef<number | null>(null);
 
-  const progress = ((TOTAL_TIME - remainingTime) / TOTAL_TIME) * 100;
+  // Held in a ref so an inline callback from the caller doesn't restart the loop.
+  const onCompleteRef = useRef(onComplete);
+  onCompleteRef.current = onComplete;
+
+  const progress = ((durationSeconds - remainingTime) / durationSeconds) * 100;
 
   // Main timer loop with automatic cleanup
   useEffect(() => {
     if (!isRunning) return;
 
-    const tick = () => {
+    startTimeRef.current = Date.now() - pausedTimeRef.current;
+
+    const intervalId = setInterval(() => {
       const elapsed = Date.now() - (startTimeRef.current as number);
-      const newRemaining = Math.max(0, TOTAL_TIME - Math.floor(elapsed / 1000));
+      const newRemaining = Math.max(0, durationSeconds - Math.floor(elapsed / 1000));
 
       setRemainingTime(newRemaining);
 
       if (newRemaining <= 0) {
         setIsRunning(false);
-        onComplete?.();
-      } else {
-        animationIdRef.current = requestAnimationFrame(tick);
+        onCompleteRef.current?.();
       }
-    };
+    }, TICK_MS);
 
-    startTimeRef.current = Date.now() - pausedTimeRef.current;
-    animationIdRef.current = requestAnimationFrame(tick);
-
-    // MEMORY LEAK FIX: Automatic cleanup
-    return () => {
-      if (animationIdRef.current !== null) {
-        cancelAnimationFrame(animationIdRef.current);
-        animationIdRef.current = null;
-      }
-    };
-  }, [isRunning, TOTAL_TIME, onComplete]);
+    return () => clearInterval(intervalId);
+  }, [isRunning, durationSeconds]);
 
   const start = useCallback(() => {
     if (!isRunning) {
@@ -76,10 +72,10 @@ export function useTimer({ durationSeconds = 1800, givenRemainingTime = 0, onCom
 
   const reset = useCallback(() => {
     setIsRunning(false);
-    setRemainingTime(TOTAL_TIME);
+    setRemainingTime(durationSeconds);
     pausedTimeRef.current = 0;
     startTimeRef.current = null;
-  }, [TOTAL_TIME]);
+  }, [durationSeconds]);
 
   return {
     remainingTime,

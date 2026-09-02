@@ -3,20 +3,6 @@ interface TimerOverlayProps {
 }
 
 export default function TimerOverlay({ progress }: TimerOverlayProps) {
-  return (
-    <div
-      className="timer-overlay"
-      style={{
-        position: "fixed",
-        bottom: 0,
-        left: 0,
-        right: 0,
-        height: `${progress}%`,
-        backgroundColor: "rgba(235, 119, 61, 0.5)",
-        transition: "height 0.3s ease-out",
-        zIndex: -1,
-        pointerEvents: "none",
-      }}
-    />
-  );
+  // scaleY is composited on the GPU; animating `height` relayouts the page every frame.
+  return <div className="timer-overlay" style={{ transform: `scaleY(${progress / 100})` }} />;
 }

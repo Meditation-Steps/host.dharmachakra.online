@@ -8,6 +8,7 @@ export const getRoutePath = (lang: Language, route?: string) => {
   return `/${lang}/${path}`;
 };
 
-export const getNumberParam = (param: string | null): number => {
-  return parseInt(param || '');
+export const getNumberParam = (param: string | null): number | null => {
+  const parsed = parseInt(param || '');
+  return Number.isFinite(parsed) ? parsed : null;
 }

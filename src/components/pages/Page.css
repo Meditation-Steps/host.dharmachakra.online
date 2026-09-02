@@ -102,8 +102,8 @@
   line-height: var(--line-height-title);
 }
 
-ul ol {
-  padding-left: 1rem;
+ul, ol {
+  padding-left: 2em;
   margin-block: 1em;
 }
 

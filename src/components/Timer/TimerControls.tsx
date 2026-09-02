@@ -12,58 +12,20 @@ export default function TimerControls({ isRunning, onStart, onStop, onReset }: T
   const { t } = useTranslation("timer");
 
   return (
-    <div
-      className="timer-controls"
-      style={{
-        display: "flex",
-        gap: "1rem",
-        flexWrap: "wrap",
-        justifyContent: "center",
-      }}
-    >
+    <div className="timer-controls">
       {isRunning ? (
-        <button
-          id="stop-btn"
-          className="timer-button"
-          onClick={onStop}
-          type="button"
-          style={{
-            display: "flex",
-            alignItems: "center",
-            gap: "0.5rem",
-          }}
-        >
-          <img src="/images/stop.png" alt="" style={{ width: "32px", height: "32px" }} />
+        <button id="stop-btn" className="timer-button" onClick={onStop} type="button">
+          <img src="/images/stop.png" alt="" />
           {t("stop")}
         </button>
       ) : (
-        <button
-          id="start-btn"
-          className="timer-button"
-          onClick={onStart}
-          type="button"
-          style={{
-            display: "flex",
-            alignItems: "center",
-            gap: "0.5rem",
-          }}
-        >
-          <img src="/images/start.png" alt="" style={{ width: "32px", height: "32px" }} />
+        <button id="start-btn" className="timer-button" onClick={onStart} type="button">
+          <img src="/images/start.png" alt="" />
           {t("start")}
         </button>
       )}
-      <button
-        id="reset-btn"
-        className="timer-button"
-        onClick={onReset}
-        type="button"
-        style={{
-          display: "flex",
-          alignItems: "center",
-          gap: "0.5rem",
-        }}
-      >
-        <img src="/images/reset.png" alt="" style={{ width: "32px", height: "32px" }} />
+      <button id="reset-btn" className="timer-button" onClick={onReset} type="button">
+        <img src="/images/reset.png" alt="" />
         {t("reset")}
       </button>
     </div>
