@@ -1,6 +1,6 @@
 **Chapter 4**
 
-# Krśńa and Prapattiváda – 1/2
+# Krśńa and Prapattiváda – 2/2
 
 Lord Krśńa was born into this philosophical environment. Basically He was not a philosopher: in both His roles, as Vraja Krśńa and Párthasárathi Krśńa, He was a pragmatic man, a practical personality. Prapattiváda, which received special support directly or indirectly from Lord Krśńa, found a permanent place in Bhágavata shástra, which evolved at a much later date.
 
