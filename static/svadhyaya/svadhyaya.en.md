@@ -12,9 +12,8 @@ Vaishnavism, or the cult of devotion, chiefly rests on the idea of prapatti. In 
 
 The word prapatti is derived pra – pat root + ktin suffix. Prapatti means complete surrender. The inner spirit of prapatti is that whatever is taking place in the universe is all due to the Cosmic will. Had Parama Puruśa willed otherwise, things would have been different. Hence the Cosmic will is at the root of each and every action. Thus we should say, “O Lord, Thy will be done. I am but a machine. Utilize this machine in any way You like. I am nothing but a mere tool in your hands.” This is the spirit of prapattiváda. This inner spirit of prapatti is nicely reflected in a modern Bengali song:
 
-_Sakali tomár icchá icchámayii tárá tumi;_
-
-_Tomár karma tumi kara má loke bale kari ámi._
+_Sakali tomár icchá icchámayii tárá tumi;_  
+_Tomár karma tumi kara má loke bale kari ámi._  
 
 [All that is happening is Your own thought-projection. Whatever You wish to do becomes implemented. It is You who do everything. People foolishly claim the credit for doing things.]
 
@@ -26,21 +25,17 @@ Krśńa played the most regaling notes on His flute. The waves of ideation tha
 
 Thus human beings advanced and moved on. How do people progress? They progress according to the vibrational waves and inspiration emanating from the mind of the Boundless Entity, and this reaches the inner cores of their minds and souls. These billowing waves drive the jiivas [living beings] forward and bring them into close proximity to the Boundless Entity. That is to say, the music emanating from Krśńa’s flute shook the minds of the sádhakas, causing them to echo and vibrate. This resonance is nothing but prapattiváda. Here there is scope neither for jiṋána nor for karma. Here mobility is the only task, the only dharma. “The way He is calling me – I am to move accordingly.” This state of mind is one of the sweetest states, the madhura guńa [sweet quality] of prapattiváda. “I am rushing ahead due to the sweet call of His flute and entering into His sweet and blissful environment.” Hence for Vraja Krśńa, there is no need to interpret the faculties of knowledge and action. There is no scope for fighting over philosophical ideas. Only complete prapatti is there, and once it shakes the jiiva, he or she can no longer stay away. One rushes out and starts running after Him.
 
-_Chot́e ye jan bánshiir t́áne_
-
-_Se ki tákáy pather páne?_
+_Chot́e ye jan bánshiir t́áne_  
+_Se ki tákáy pather páne?_  
 
 [One who runs after the sound of the flute – can he or she ever bother about the road?]
 
 Human beings are moving ahead. They do not bother about whether they have stumbled and fallen on the ground, or whether their limbs have become bloody with cuts and scratches. The jiiva does not care. He or she has no time to stop. This is the Vraja Krśńa who, although directly a prapattivádii, never uttered anything verbally about prapatti. Influenced by such a prapattivádii doctrine, the devotees of Lord Vraja Krśńa sang:
 
-_Yashodá-Nanda nandanaḿ surendrapádavandanam;_
-
-_Suvarńaratnamańd́alaḿ namámi Krśńasundaram._
-
-_Bhavábdhikarńadhárakaḿ bhayárttináshakárakam;_
-
-_Mumukśumuktidáyakam namámi Krśńasundaram._
+_Yashodá-Nanda nandanaḿ surendrapádavandanam;_  
+_Suvarńaratnamańd́alaḿ namámi Krśńasundaram._  
+_Bhavábdhikarńadhárakaḿ bhayárttináshakárakam;_  
+_Mumukśumuktidáyakam namámi Krśńasundaram._  
 
 [Salutations to Krśńa the Beautiful, who was an object of delight to Mother Yashoda, whose lotus feet were worshipped by the gods, and whose body was adorned with precious gems. Salutations to Krśńa the Beautiful, who was the most reliable helmsman on the ocean of this universe, who removed the fear of annihilation, who granted salvation to aspiring souls.]
 
@@ -50,9 +45,8 @@ Mumukśu mukti dáyakam – “if any human being begs for mokśa [non-qualif
 
 In doing their duty, sometimes people succeed and sometimes they do not. If you do not succeed, never get frustrated. You must remember:
 
-_Karmańyevádhikáraste má phaleśu kadácana;_
-
-_Má karmaphalaheturbhúmá te sauṋgo’stvakarmańi._
+_Karmańyevádhikáraste má phaleśu kadácana;_  
+_Má karmaphalaheturbhúmá te sauṋgo’stvakarmańi._  
 
 [You have the right to action but not to the fruits of the action. You must not do actions that will bind you, but you must not be averse to action, either.]
 
