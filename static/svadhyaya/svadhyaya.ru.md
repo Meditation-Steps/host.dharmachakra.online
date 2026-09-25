@@ -24,7 +24,8 @@
 
 Партхасаратхи Кришна был другим. Парама Пуруша стоит за каждым действием – это факт, и все же Партхасаратхи Кришна абсолютно не допускал даже духа бездействия. Он говорил: 
 
-Karmańyevádhikáraste má phaleśu kadácana;  
+Karmańyevádhikáraste má phaleśu kadácana;  
+
 Má karmaphalaheturbhúmá te saungo’ stvakarmańi.  
 
 Каман́ьева́дхика́расте ма́ пхалеш́у када́чана;  
