@@ -37,7 +37,5 @@ Is this in agreement with prapatti or at variance with prapatti? It seems to be 
  
 In the beginning, karma seemed to be against prapatti, but karma is not antithetical to prapatti. It is definitely in conformity with prapatti. So a boy or a girl who does work is surely following the path of prapatti. Even if there is any room for indolence while enjoying the flute of Vraja Krśńa, there is not the least room for inaction in the clarion call of the karma yoga of Párthasárathi Krśńa.
  
----
- 
 *21 September 1980, Calcutta*\
 *Shrii Shrii Ánandamúrti*
