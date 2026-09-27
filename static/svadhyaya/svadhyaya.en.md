@@ -1,41 +1,43 @@
-**Chapter 5**  
-
+**Chapter 5**
+ 
 # **Krśńa and Prapattiváda – 2**
-
+ 
 Prapatti-orientated psychology generally resembles the psychology behind the science of phonetics. Just as in the science of phonetics there are three types of pronunciation – short, long, and drawled (or prolonged) – so in prapatti there are three distinct kinds of psychological expression.
-
+ 
 … When one's psychology conforms to the one vast flow, one eternal flow, of bliss, flowing from beginninglessness to endlessness, wherein every entity is inundated, saturated and drenched with bliss – when I am identifying my psychology with that flow – this psychology resembles the psychology of the prolonged phonetic sound, and is called prapatti.
-
+ 
 This idea may be explained in another way. An all-pervasive idea is originating from the universal Nucleus and flowing towards Infinity. We should bear in mind that this universe of ours is very vast but not infinite, because it has been created by three principles – the sentient, mutative and static principles. … Though very big, it has limitations. While people are small, the universe is very large.
-
-These forces, these waves of different lengths emanated from that singular, universal hub, that universal nave, are constantly advancing towards infinity. That is, those waves are not confined to this world. This should be borne in mind. Whenever something remains within the scope of this universe, within the circumference of this universe, we call it vishvagata, and when it goes beyond the scope of this universe, we call it vishvátiita. When human beings proceed along these waves – along these pencils of waves and pencils of rays – their movement, although vishvagata in the initial stage, becomes vishvátiita in the end. Those who are clever will identify their limited individual identity with the Cosmic emanations and they will thereby finally become Cosmic. As long as they remain vishvagata, they continue to enjoy the waves of bliss, the blissful expressions, and when they attain the vishvátiita state, they remain forever in the ocean of bliss. Then the sádhaka becomes detached from everything else.
-
+ 
+These forces, these waves of different lengths emanated from that singular, universal hub, that universal nave, are constantly advancing towards infinity. That is, those waves are not confined to this world. This should be borne in mind. Whenever something remains within the scope of this universe, within the circumference of this universe, we call it *vishvagata*, and when it goes beyond the scope of this universe, we call it *vishvátiita*. When human beings proceed along these waves – along these pencils of waves and pencils of rays – their movement, although *vishvagata* in the initial stage, becomes *vishvátiita* in the end. Those who are clever will identify their limited individual identity with the Cosmic emanations and they will thereby finally become Cosmic. As long as they remain *vishvagata*, they continue to enjoy the waves of bliss, the blissful expressions, and when they attain the *vishvátiita* state, they remain forever in the ocean of bliss. Then the sádhaka becomes detached from everything else.
+ 
 Now whatever Parama Puruśa does, He does for the good of humanity. Not a single blade of grass can move without His desire. This very endeavour to obtain bliss by identifying one's microcosmic waves with the Cosmic emanations is called prapatti. I have already said that this prapatti resembles, to a great extent, the prolonged sound in the science of phonetics. Those of you who have achieved some spiritual elevation will hear a prolonged sound – one that is neither short nor long, but a prolonged sound that continues smoothly without changing.
-
-Next comes the long sound of the science of phonetics, that is, a medium sound. The sádhaka feels that he or she is able to hear that sound by dint of his or her own efforts. If drawn out to a great length, it may become a pluta sound, and if shortened, it will be a sound which generally conforms to aprapatti. But where there is only individual effort regardless of one's capacity, to the exclusion of prapatti, aprapatti and thoughts of Parama Puruśa or the universal acoustic emanation, it is similar to short pronunciation – it resembles viprapatti.
-
+ 
+Next comes the long sound of the science of phonetics, that is, a medium sound. The sádhaka feels that he or she is able to hear that sound by dint of his or her own efforts. If drawn out to a great length, it may become a *pluta* sound, and if shortened, it will be a sound which generally conforms to aprapatti. But where there is only individual effort regardless of one's capacity, to the exclusion of prapatti, aprapatti and thoughts of Parama Puruśa or the universal acoustic emanation, it is similar to short pronunciation – it resembles viprapatti.
+ 
 It has been said earlier that Vraja Krśńa attracted people with His magic flute. Innumerable sound waves emanated from His flute, and His devotees rushed towards Him in the flow of those sound waves. Clearly, this is prapattiváda. Although there is an element of knowledge and action, devotion is the predominant factor.
-
+ 
 Párthasárathi Krśńa was different. It is a fact that Parama Puruśa does everything; nevertheless, Párthasárathi Krśńa did not permit any spirit of inaction. He said,
-
-_Karmańyevádhikáraste má phaleśu kadácana;_
-_Má karmaphalaheturbhúmá te sauṋgo'stvakarmańi._
-
-[You have the right to action but not to the fruits of the action. You must not do actions that will bind you, but you must not be averse to action, either.]
-
+ 
+> *Karmańyevádhikáraste má phaleśu kadácana;*\
+> *Má karmaphalaheturbhúmá te sauṋgo'stvakarmańi.*
+>
+> [You have the right to action but not to the fruits of the action. You must not do actions that will bind you, but you must not be averse to action, either.]
+ 
 "You have the right to action but not the right to the fruits of action." You have your hands and feet, you have the capacity to work and hence work you must. Rights may be applied only in the case of work. One may or may not want to work.
-
-_Má phaleśu kadácana_ ["but not to the fruits of the action"]. Regarding karma, it is said that for each and every action there is an equal and opposite reaction, provided the three fundamental relative factors, namely, the temporal factor, the spatial factor and the personal factor, remain unchanged, remain unassailed; otherwise, there will be a change in the reaction. The reaction in that case will not be equal and opposite in nature. Suppose, for example, you borrow one hundred rupees from a particular person. If you pay back the amount then and there, you will not be required to pay back any additional money. If you pay back the loan after a long time, however, say a few years, you will have to pay back the capital with interest. Thus the amount of one hundred rupees returns in a changed form due to the change in the temporal factor.
-
-In prapattiváda, if the devotees respond in the same manner as the musical flute calls them, there will not be any change. But with karma, it is different. Here Párthasárathi Krśńa says, "You are certainly entitled to action, but you are not entitled to the fruits of your actions." The result of action changes with the changes in time, place and person. Therefore, you have control over the original action but not over the reaction. Hence it is said, _Má phaleśu kadácana_.
-
+ 
+*Má phaleśu kadácana* ["but not to the fruits of the action"]. Regarding karma, it is said that for each and every action there is an equal and opposite reaction, provided the three fundamental relative factors, namely, the temporal factor, the spatial factor and the personal factor, remain unchanged, remain unassailed; otherwise, there will be a change in the reaction. The reaction in that case will not be equal and opposite in nature. Suppose, for example, you borrow one hundred rupees from a particular person. If you pay back the amount then and there, you will not be required to pay back any additional money. If you pay back the loan after a long time, however, say a few years, you will have to pay back the capital with interest. Thus the amount of one hundred rupees returns in a changed form due to the change in the temporal factor.
+ 
+In prapattiváda, if the devotees respond in the same manner as the musical flute calls them, there will not be any change. But with karma, it is different. Here Párthasárathi Krśńa says, "You are certainly entitled to action, but you are not entitled to the fruits of your actions." The result of action changes with the changes in time, place and person. Therefore, you have control over the original action but not over the reaction. Hence it is said, *Má phaleśu kadácana*.
+ 
 Here you should remember one thing. There are some opportunistic people in this world who distort the meaning of this shloka from the Giitá and thus manage to perpetuate the machinery of exploitation. This is very amusing. I bring it into the domain of philosophy because it is highly illustrative. Those exploiters glibly make their views known: "These poor people, these toiling people, these intellectuals, they have no doubt the right to work, but they have no right to the results of their actions. The results, the fruits, should accrue to us, the owners, the proprietors. 'Increase our wages, give us more remuneration, pay us a bonus…' – they have no right to say all these things."
-
-However, let us get back to the main topic. Párthasárathi says, _Má karmaphalaheturbhúmá te sauṋgo'stvakarmańi_ ["You must not do actions that will bind you, but you must not be averse to action, either"]. Do your duty, your karma. Now, is this karma in conformity with prapatti or is it antagonistic to prapatti? The teachings of Vraja Krśńa are clearly consistent with prapatti. His existence, His actions, the music of His flute, the way in which He attracts people and gives them shelter – all these are in perfect harmony with prapatti, because an individual feels free after surrendering everything to the Macrocosmic Entity. Here Párthasárathi says, "Do your karma, for you have an inalienable right to your karma." Karma is defined as _Karma Brahmeti karma bahu kurviita_ – "You are human. Simply look upon karma as a veritable expression of Brahma [Supreme Entity] and do as much karma as you can."
-
+ 
+However, let us get back to the main topic. Párthasárathi says, *Má karmaphalaheturbhúmá te sauṋgo'stvakarmańi* ["You must not do actions that will bind you, but you must not be averse to action, either"]. Do your duty, your karma. Now, is this karma in conformity with prapatti or is it antagonistic to prapatti? The teachings of Vraja Krśńa are clearly consistent with prapatti. His existence, His actions, the music of His flute, the way in which He attracts people and gives them shelter – all these are in perfect harmony with prapatti, because an individual feels free after surrendering everything to the Macrocosmic Entity. Here Párthasárathi says, "Do your karma, for you have an inalienable right to your karma." Karma is defined as *Karma Brahmeti karma bahu kurviita* – "You are human. Simply look upon karma as a veritable expression of Brahma [Supreme Entity] and do as much karma as you can."
+ 
 Is this in agreement with prapatti or at variance with prapatti? It seems to be opposed to prapatti but in actuality it is not. If we go deeper into the subject, we see that this quinquelemental body, this body of flesh and bones, this mind made of ectoplasmic stuff, this reflecting plate that acts as the witnessing entity (known as átman or puruśa in philosophy) – all these have their origin in Parama Puruśa. It is the Cosmic desire that is the source of the creation of the human body, mind and soul. If we utilize this body, mind and jiivátmá [soul, self, unit consciousness], we are only following the path of prapatti. That is, we are utilizing the things given to us by Parama Puruśa. All these things, the body, mind and self, are His gifts. Had He willed otherwise, they would not have existed. Without Cosmic desire, nothing can exist, nothing can move, not even a blade of grass. So in accordance with the spirit of prapatti, that the body is a machine, we can say that He has been kind enough to provide the body and mind, to be utilized for work only. Hence I follow the spirit of prapatti in using them.
-
+ 
 In the beginning, karma seemed to be against prapatti, but karma is not antithetical to prapatti. It is definitely in conformity with prapatti. So a boy or a girl who does work is surely following the path of prapatti. Even if there is any room for indolence while enjoying the flute of Vraja Krśńa, there is not the least room for inaction in the clarion call of the karma yoga of Párthasárathi Krśńa.
-
-_21 September 1980, Calcutta_
-_Shrii Shrii Ánandamúrti_
+ 
+---
+ 
+*21 September 1980, Calcutta*\
+*Shrii Shrii Ánandamúrti*
