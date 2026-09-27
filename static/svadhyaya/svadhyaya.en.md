@@ -1,5 +1,6 @@
-**Svadhyaya**
-**Chapter 5 – Krśńa and Prapattiváda – 2**
+**Chapter 5**  
+
+# **Krśńa and Prapattiváda – 2**
 
 Prapatti-orientated psychology generally resembles the psychology behind the science of phonetics. Just as in the science of phonetics there are three types of pronunciation – short, long, and drawled (or prolonged) – so in prapatti there are three distinct kinds of psychological expression.
 
