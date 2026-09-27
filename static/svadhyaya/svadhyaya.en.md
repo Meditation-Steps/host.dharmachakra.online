@@ -18,8 +18,8 @@ It has been said earlier that Vraja Krśńa attracted people with His magic flut
  
 Párthasárathi Krśńa was different. It is a fact that Parama Puruśa does everything; nevertheless, Párthasárathi Krśńa did not permit any spirit of inaction. He said,
  
-> *Karmańyevádhikáraste má phaleśu kadácana;*\
-> *Má karmaphalaheturbhúmá te sauṋgo'stvakarmańi.*
+> *Karmańyevádhikárastemá phaleśu kadácana;*\
+> *Má karmaphalaheturbhú má te sauṋgo'stvakarmańi.*
 >
 > [You have the right to action but not to the fruits of the action. You must not do actions that will bind you, but you must not be averse to action, either.]
  
