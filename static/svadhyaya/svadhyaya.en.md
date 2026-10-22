@@ -14,5 +14,5 @@ The interesting thing is that here jaeva dharma, mánava dharma and Aeshvariiya 
 
 Krśńa is also called Mohana [literally, “attractive”] because He charms everyone and attracts everyone towards Himself. A devotee does not like to be with Him in the presence of others, but wants to enjoy the intimacy and sweetness of being with Him alone. Such a devotee does not like to think that He belongs to everyone, but to him or her alone. But when the devotee and He are alone together, does the devotee then think, “He is all mine”? No, the devotee then forgets what to say to Him, and becomes oblivious to himself or herself. When people are self-conscious, hundreds of questions arise in their minds. Only when that self-consciousness merges into Parama Puruśa, do the questions come to an end. Because in the presence of the Entity who is beyond all questions, the devotee becomes self-forgetful. That is the stance of Cosmic bliss. Sáḿkhya philosophy, or for that matter any philosophy, does not come anywhere near that stance.
 
-_5 October 1980, Calcutta_  
+_5 October 1980, Calcutta_\
 _Shrii Shrii Ánandamúrti_
