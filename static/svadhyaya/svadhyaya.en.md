@@ -1,35 +1,36 @@
-**Chapter 7** 
+**Chapter 8.** 
 
-## Vraja Krśńa and Sáḿkhya Philosophy (3/3)
+## Párthasárathi Krśńa and Sáḿkhya Philosophy (1/2)
 
-There is no mention of and no scope for bhakti in Sáḿkhya philosophy. Bhakti is like a tether which draws people near. In the cult of jiṋána, one remains where one was, and in the case of karma, one remains preoccupied with hundreds of actions. Without the cultivation of bhakti, one can never come in close proximity to Parama Puruśa.
+In analysing Vraja Krśńa, we see that, being the embodiment of Parama Puruśa or Táraka Brahma, He is beyond the reach of philosophy. It is said:
 
-The cult of devotion first originated during the period of Vraja Krśńa. (Párthasárathi Krśńa came later.) We find Parama Puruśa in charming form, in attractive form, in the form of one’s own (more one’s own than anyone else could be), for the first time in human history in Vraja Krśńa. In the cult of devotion, devotees view Parama Puruśa from their respective viewpoints according to their individual saḿskáras. The people of ancient India adored Krśńa in three different ways: _vátsalya bháva_, _madhura bháva_ and _sakhya bháva_.
+_Yato váco nivarttante aprápya manasá saha;_
+_Ánandaḿ Brahmańo vidván má vibheti kutashcana._
 
-Nanda and Yashodá [Krśńa’s foster father and mother] adored Him in vátsalya bháva, whose spirit is: “How lovely the child is, how pleasingly He speaks, how charming is His smile, how sweet is His inarticulate ‘Pa-Pa-Pa Ma-Ma-Ma’. I shall feed Him, I shall dress Him, I shall bathe Him, I shall make Him laugh. I shall caress Him, placing Him on my lap.” Such devotees are busy exclusively with Him. Nanda and Yashodá were the first to find the Cosmic bearing of Parama Puruśa reflected in a tiny child. The name of this bháva [attitude, stance] is vátsalya bháva. Krśńa’s own father, Vasudeva, and mother, Devakii or Daevakii (one person, two names), were separated from Krśńa during His childhood and thus were deprived of vátsalya bháva. Krśńa only returned to them when He was quite mature.
+_[Brahma is the One from whom words and mind return disappointed, after failing to fathom Its depths. But one who has known the blissful nature of Brahma is not afraid of anything.]_
 
-Rádhá attained Krśńa through madhura bháva. In Krśńa she found everything that was charming and sweet in life. The spirit of madhura bháva is this: “I will make my entire existence, whether physical, mental, social or spiritual, one-pointed to derive bliss from my dear Krśńa.” Usually ninety-nine percent of all devotees maintain this Rádhá bháva due to its sweetness. Never before in history did anyone attain Parama Puruśa in madhura bháva; they attained Him for the first time in Vraja Krśńa. And Vraja Krśńa increased the degree of sweetness by playing His flute. People might say, “I will never look at Him again” – but then the flute sound would come to their ears and they would say, “How can I not look at Him?” Or they might say, “I will never even think of Him again, but will remain content to look after my little worldly family” – but then the notes would call to them: “Why didn’t you come today? Are you not coming? I’m waiting for You.” This is madhura bháva. In the history of the world, Parama Puruśa first appeared as the personification of charm and sweetness, to be attained through madhura bháva, in Vraja Krśńa.
+“Words fail miserably to reach Him, and the mind is obliged to return after meeting the same fate.” Parama Puruśa is beyond the eloquence and fluency of language, so how can philosophy fathom His greatness?
 
-_Naviinameghasannibhaḿ suniilakomalacchavim;_
-_Suhásarainjitádharaḿ namámi Krśńasundaram._
+Sáḿkhya philosophy contains the highest expression of intellect, but intellect, after all, is not everything. To reach the Supreme Entity, one must go beyond intellect and enter the realm of intuition.
 
-_Yashodá-Nanda nandanaḿ surendrapádavandanam;_
-_Suvarńaratnamańd́alaḿ namámi Krśńasundaram._
+Some people may say that Vraja Krśńa was comparatively easy to attain, for He mixed freely with the common people. Thus it may have been possible for Sáḿkhya philosophy to say something about Vraja Krśńa, but even then it could not. That shows that Parama Puruśa, though established in the human mind, cannot be grasped by the human prajiṋá [intellect].
 
-_Bhavábdhikarńadhárakaḿ bhayárttináshakárakam;_
-_Mumukśumuktidáyakaḿ namámi Krśńasundaram._[3]
+This applies even more in the case of Párthasárathi Krśńa. Being a king, He did not have much contact with the masses, but was confined to the circle of kings and vassals. Judged in that perspective, it is even more difficult for philosophy to reach Párthasárathi than to reach Vraja Krśńa. It should be added that although Párthasárathi was a king, and thus beyond the reach of the common masses, mentally He was always with the people.
 
-What is Krśńa like? “He is like the dark patches of cloud which appear as harbingers of hope in the northeastern sky after the scorching heat of summer. Krśńa brings hope, Krśńa means hope – hope of protection, hope of deliverance. The very sight of Him brings peace to the mind, delight to the eyes, and joy to the heart. Some chew betel or use other things to colour the lips and mouth, but my Krśńa needs nothing except His sweetly enchanting smile.”
+The word _sárathi_ comes not only from _rathena saha_, but also from the suffix _i_ [imparting the sense of “offspring”]. That is, a sárathi is one who treats the chariot as his own child and thus takes constant precautions to ensure that it is not harmed in any way. One does not qualify as a sárathi merely by being able to drive a chariot.
 
-Krśńa was one, but adored in different ways. Rádhá adored Him in madhura bháva. Yashodá and Nanda worshipped Him in vátsalya bháva, and the cowherds – who had no schooling, no learning, but sincerity and a loving heart – adored Him in sakhya bháva, as a friend. The gods also[4] received Him in sakhya bháva as their friend. (Later[5] I shall discuss how sakhya bháva is sometimes transformed into friendship-based dásya bháva,[6] and at other times transformed into friendship-based madhura bháva.) Initially the gods accepted Him as their close friend, but later said, \[_suvarńaratnamańd́alaḿ_ –] “You are our friend, no doubt, but You are much more. You are more radiant than all the world’s pearls and jewels put together.”
+Now, _ratha_ does not only mean a horse-drawn chariot. What is its actual meaning?
 
-_Bhavábdhikarńadhárakaḿ_ – “You are the helmsman in the ocean of bhava [the expressed universe]. You have all the qualities to cross this ocean of bhava. You do not need liberation in this world nor in the next world. I take refuge in You without any fear or reservation, for You are everything.”
+_Átmánaḿ rathinaḿ viddhi shariiraḿ rathameva tu;_
+_Buddhintu sárathiḿ viddhi manah pragrahameva ca._
 
-_Bhayárttináshakárakam_ – “When I am in trouble, when there is not the faintest trace of a single ray of hope, You appear to allay my doubts and fears.”
+He is Párthasárathi because He encompasses the human intellect. \[_Buddhintu sárathiḿ_: “the intellect is the sárathi.”] He supplies the human intellect with His intellect.
 
-_Mumukśumuktidáyakaḿ_ – “Only You can grant liberation to those who seek nothing else but to be freed from worldly bondages after carrying out their worldly duties.”  
+Human beings are not concerned only about their physical existence. Behind the struggle for the minimum necessities of life (food, clothes, education, medical treatment and shelter) works the mind, which, in its turn, draws inspiration from the átman. People in today’s world become fatigued by their wants and needs, attractions and aspirations, pleasures and pains, and weaknesses and imperfections. The One (as their charioteer) who leads them from the depths of darkness to the realm of brilliant light and strengthens them with divine inspiration, is Párthasárathi. Only He has the might to shoulder such an immense responsibility, only He has the requisite vital force and intellectual acumen. So how can philosophy describe His greatness?
 
-_Namámi Krśńasundaram_ – “O Vraja Krśńa, I salute Thee.”
+Now, let us compare Párthasárathi Krśńa with Sáḿkhya philosophy. Sáḿkhya philosophy says that there are many puruśas and one Janya Iishvara. Now what relationship can one [special] puruśa have with jiivas [microcosms], with the world, and with Iishvara? From the microcosmic point of view, Párthasárathi is a mighty, vigorously active puruśa, who brings about radical changes in the lifestyles of human beings and imparts benevolent guidance to them. Sáḿkhya does not mention anything about such a Puruśa. According to Sáḿkhya, there are many puruśas – a separate puruśa in each jiiva. But Párthasárathi is not like that. Nor is He like the Janya Iishvara of Sáḿkhya philosophy, whose presence is [only] a necessity for the creation of the world. He is a superhuman personality as mighty as a meteor.
 
-_5 October 1980, Calcutta_\
+Párthasárathi is a great personality reflected in every word, in every direction, and in every divine expression of His Macrocosmic imagination. He is great because He is turning the vast chariot wheel of the Cosmos, He is guiding all things, all sentimental living entities. He is Táraka Brahma. He absorbs everything within His mind and guides humanity. What is the need for Him to guide and advise individual entities? Being Táraka Brahma, whatever He imagines mentally will take place accordingly in the outer world. He whose thoughts take the form of actions is called Cintámańi[1] in the scriptures. Krśńa is Cintámańi. What was the need for Him to advise the Pandavas, to advise the Kaoravas, and to teach the Pandavas war strategy? Should He be considered like the unit puruśa as described by Sáḿkhya? No, certainly not, for it is impossible for the unit puruśa to think such grand thoughts, to make such powerful thought-projections. So since He is not Janya Puruśa, He is Cosmic Consciousness personified, why should He take the trouble to work in a planned way, advising people, teaching people lessons on the value of system? Why? Simply by thinking He could have materialized His goals. Why did He go out of the way to create a drama? The battle of Kurukśetra was a big drama. Why was it necessary? He could have thought, “Well, the Kaoravas are finished,” and the work would have been done. In fact, that is how things happened in the end, but only after staging a huge drama.
+
+_12 October 1980, Calcutta_
 _Shrii Shrii Ánandamúrti_
