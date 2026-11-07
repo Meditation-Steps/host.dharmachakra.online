@@ -1,4 +1,4 @@
-**Chapter 8.** 
+**Chapter 8**
 
 ## Párthasárathi Krśńa and Sáḿkhya Philosophy (1/2)
 
