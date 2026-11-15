@@ -29,5 +29,6 @@ Nobody was spared, not even Abhimanyu, Krśńa’s nephew and Arjuna’s son, fo
 
 One final point should be mentioned about Párthasárathi. It is a fact that although He mixed with kings, He thought more for the interests of the common people. The suffering of the masses, their plight and their struggles, were the object of His attention and consideration. Labouring hard, extending His personal influence, He made immense progress in advancing their welfare. He left us some 3500 years back, but He is still dearly loved and will continue to be loved by oppressed, suffering and struggling men and women.
 
-_12 October 1980, Calcutta_
+_12 October 1980, Calcutta_ 
+
 _Shrii Shrii Ánandamúrti_
