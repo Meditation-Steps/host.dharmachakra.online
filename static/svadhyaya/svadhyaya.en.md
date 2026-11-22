@@ -14,7 +14,7 @@ And prota yoga is Parama Puruśa’s association with the entire creation – hu
 
 Every jiiva, as part of its birthright under prota yoga, enjoys His grace. So no one is small, no one is insignificant. If anyone laments, “I am such a useless person, such a helpless sinner, that Parama Puruśa can’t possibly wish to listen to me,” I will point out that when He listens to the collective prayer, then He naturally listens to the individual prayer too. And when He listens to every individual in ota yoga, then is a sinner outside the creation? All so-called sinners are within His mental domain and so He is inseparably associated with them too. One should remember,
 
-_Api cet sudurácáro bhajate mámananyabhák;_
+_Api cet sudurácáro bhajate mámananyabhák;_  
 _So’pi pápavinirmuktah mucyate bhavabandhanát._
 
 “If even the most wicked people worship Me with a concentrated mind, I will liberate them from worldly bondages.” They should not be concerned about their future.
